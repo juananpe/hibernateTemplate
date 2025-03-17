@@ -3,7 +3,7 @@
 A JavaFX+Hibernate+H2+JUnit template for the Software Engineering class of the Faculty of Computer Science of Donostia. 
 
 
-* First, you need to create some Java POJO entities in the domain folder
+* First, you need to create some Java POJO (Plain Old Java Objects) entities in the domain folder
 * Then, you can map those entities to an H2 database: 
   * In the hibernate.cfg.xml file, edit this line:
   
