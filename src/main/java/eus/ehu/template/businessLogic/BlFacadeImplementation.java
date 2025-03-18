@@ -26,7 +26,6 @@ public class BlFacadeImplementation implements BlFacade {
         dbManager = new DataAccess();
         if (initialize)
             dbManager.initializeDB();
-        dbManager.close();
     }
 
 
